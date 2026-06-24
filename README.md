@@ -4,21 +4,21 @@ Hi there 👋, I'm Shyam Sundar
 
 💡 Passionate about Backend Development, Data Science, Machine Learning, and Problem Solving.
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/yourusername?style=social" alt="GitHub Followers" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shyam20433&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/shyam20433?style=social" alt="GitHub Followers" /> </p>
 🚀 About Me
-🎓 Pursuing M.Sc. Data Science
+🎓 Pursuing M.Sc. Data Science at Coimbatore Institute of Technology
 
 💻 Backend Developer & Data Science Enthusiast
 
 🧠 Solved 190+ LeetCode Problems
 
-🔥 Consistent LeetCode Streaks
+🔥 Consistent LeetCode Streaks (100+ Active Coding Days)
 
 🌱 Currently Learning AdonisJS v5 & Advanced DSA
 
 🎯 Interested in Building Real-World Applications
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shyam20433&show_icons=true&theme=radical" alt="GitHub Stats" /> </p>
 🛠️ Tech Stack
 💻 Languages
 <p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/> </p>
@@ -52,7 +52,7 @@ IoT-based transformer monitoring system using ESP32, sensors, MQTT, and predicti
 
 <p align="left"> <img src="https://img.shields.io/badge/ESP32-000000?style=flat&logo=espressif&logoColor=white" alt="ESP32"/> <img src="https://img.shields.io/badge/MQTT-3C8DBC?style=flat&logo=mqtt&logoColor=white" alt="MQTT"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow"/> </p>
 📈 Coding Profiles
-<p align="center"> <a href="https://leetcode.com/yourusername"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/> </a> <a href="https://www.hackerrank.com/yourusername"> <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/> </a> <a href="https://github.com/yourusername"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </p>
+<p align="center"> <a href="https://leetcode.com/u/shyam_jr_11/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/> </a> <a href="https://www.hackerrank.com/profile/h71762332040"> <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/> </a> <a href="https://github.com/shyam20433"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="https://www.linkedin.com/in/shyamsundar-s-s-80117931a/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> </p>
 🏆 Achievements
 🏅 Solved 190+ LeetCode Problems
 
@@ -66,10 +66,9 @@ IoT-based transformer monitoring system using ESP32, sensors, MQTT, and predicti
 
 🎯 Event Management Head Candidate - Datalytics CIT
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" /> </p><p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" /> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=shyam20433&theme=radical" alt="GitHub Streak" /> </p><p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam20433&layout=compact&theme=radical" alt="Top Languages" /> </p>
 📫 Connect With Me
-<p align="center"> <a href="https://linkedin.com/in/yourusername"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://github.com/yourusername"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="mailto:your.email@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://twitter.com/yourusername"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/> </a> </p>
-<p align="center"> <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/snake.svg" alt="Snake Animation" /> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/shyamsundar-s-s-80117931a/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://github.com/shyam20433"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="mailto:h71762332040@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://leetcode.com/u/shyam_jr_11/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/> </a> </p>
 ⚡ Fun Fact
 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
