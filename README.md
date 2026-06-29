@@ -10,7 +10,7 @@ Hi there 👋, I'm Shyam Sundar
 
 💻 Backend Developer & Data Science Enthusiast
 
-🧠 Solved 190+ LeetCode Problems
+🧠 Solved 550+ LeetCode Problems
 
 🔥 Consistent LeetCode Streaks (100+ Active Coding Days)
 
