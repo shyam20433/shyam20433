@@ -138,19 +138,48 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shyam20433&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=shyam20433&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=shyam20433&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam20433&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shyam20433&theme=radical" alt="GitHub Streak" />
-</p>
+### 📈 GitHub Activity Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam20433&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <b>📅 Total Contributions</b><br>
+        <span style="font-size: 24px; font-weight: bold;">139</span><br>
+        <small>Oct 15, 2023 - Present</small>
+      </td>
+      <td align="center">
+        <b>⚡ Current Streak</b><br>
+        <span style="font-size: 24px; font-weight: bold;">2</span><br>
+        <small>Jun 29 - Jun 30</small>
+      </td>
+      <td align="center">
+        <b>🔥 Longest Streak</b><br>
+        <span style="font-size: 24px; font-weight: bold;">3</span><br>
+        <small>Dec 14, 2025 - Dec 16, 2025</small>
+      </td>
+    </tr>
+  </table>
+</div>
 
----
 
 ## 📈 Coding Profiles
 
